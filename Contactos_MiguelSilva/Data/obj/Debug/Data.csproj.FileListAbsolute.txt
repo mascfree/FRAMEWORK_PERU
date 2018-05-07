@@ -1,0 +1,12 @@
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Freelance\Contactos_MiguelSilva\Data\bin\Debug\Data.dll.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Freelance\Contactos_MiguelSilva\Data\bin\Debug\Data.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Freelance\Contactos_MiguelSilva\Data\bin\Debug\Data.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Freelance\Contactos_MiguelSilva\Data\bin\Debug\Entidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Freelance\Contactos_MiguelSilva\Data\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Freelance\Contactos_MiguelSilva\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Freelance\Contactos_MiguelSilva\Data\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Freelance\Contactos_MiguelSilva\Data\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Freelance\Contactos_MiguelSilva\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Freelance\Contactos_MiguelSilva\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Freelance\Contactos_MiguelSilva\Data\obj\Debug\Data.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\Freelance\Contactos_MiguelSilva\Data\obj\Debug\Data.pdb
